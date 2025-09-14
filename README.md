@@ -8,7 +8,7 @@ Real State by Next JS
 <br>
 </br>
 
-![alt text](https://github.com/mohammadbaghani/Englisho-React/blob/master/public/first-page.png)
+![alt text](https://github.com/mohammadbaghani/ads/blob/master/public/kharid-melk.png)
 
-![alt text](https://github.com/mohammadbaghani/Englisho-React/blob/master/public/shopping-page.png)
+![alt text](https://github.com/mohammadbaghani/ads/blob/master/public/amlaki.png)
 
