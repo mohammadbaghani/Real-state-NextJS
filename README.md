@@ -1,7 +1,6 @@
 Real State by Next JS
 <br>
 </br>
-
 Live Demo ⭐ https://ads.liara.run ⭐
 
 سایت املاکی با Next JS زدم
